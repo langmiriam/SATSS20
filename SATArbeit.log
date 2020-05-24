@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.24)  24 MAY 2020 20:23
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.4.28)  24 MAY 2020 19:36
->>>>>>> 4ca5ad9d015ebb50a3dfedf3018a977fa2f6ac1e
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.24)  24 MAY 2020 20:32
 entering extended mode
 **./SATArbeit.tex
 (SATArbeit.tex
@@ -1623,7 +1619,7 @@ stination with the same identifier (name{page.1}) has been already used, duplic
 ate ignored
 <to be read again> 
                    \relax 
-l.54 ...? \small {Miriam}}{6}{subsubsection.3.1.4}
+l.54 ...? \small {Miriam}}{5}{subsubsection.3.1.4}
                                                   % [1])
 \tf@toc=\write10
 \openout10 = `SATArbeit.toc'.
@@ -1687,8 +1683,17 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 100.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 100.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 100.
 Package rerunfilecheck Info: File `SATArbeit.out' has not changed.
-<<<<<<< HEAD
 (rerunfilecheck)             Checksum: 12F0747096A9D631D87DF6A0B4882D6F;2716.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package biblatex Warning: Please rerun LaTeX.
+
 Package logreq Info: Writing requests to 'SATArbeit.run.xml'.
 \openout1 = `SATArbeit.run.xml'.
 
@@ -1697,7 +1702,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 100.
 Here is how much of TeX's memory you used:
  34583 strings out of 480765
  636624 string characters out of 2908083
- 1404844 words of memory out of 3000000
+ 1404631 words of memory out of 3000000
  49749 multiletter control sequences out of 15000+200000
  595704 words of font info for 86 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
@@ -1709,23 +1714,7 @@ b><D:/Programme/miktex/fonts/type1/public/kpfonts/jkpssmn8a.pfb><D:/Programme/m
 iktex/fonts/type1/public/kpfonts/jkpssmne.pfb><D:/Programme/miktex/fonts/type1/
 public/kpfonts/jkpssmsc8a.pfb><D:/Programme/miktex/fonts/type1/public/kpfonts/j
 kpttmn8a.pfb>
-Output written on SATArbeit.pdf (11 pages, 152270 bytes).
-=======
-(rerunfilecheck)             Checksum: 7C858BA823C678E287336177695D2142;2714.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 78.
- ) 
-Here is how much of TeX's memory you used:
- 5897 strings out of 480607
- 90285 string characters out of 5907502
- 356056 words of memory out of 5000000
- 21697 multiletter control sequences out of 15000+600000
- 536698 words of font info for 39 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 34i,4n,36p,284b,309s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/tex
-live/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on SATArbeit.pdf (4 pages, 44583 bytes).
->>>>>>> 4ca5ad9d015ebb50a3dfedf3018a977fa2f6ac1e
+Output written on SATArbeit.pdf (11 pages, 152234 bytes).
 PDF statistics:
  290 PDF objects out of 1000 (max. 8388607)
  51 named destinations out of 1000 (max. 500000)
