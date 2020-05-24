@@ -107,6 +107,22 @@ Quellen Evelyn
 
 [5] Charles D. Raab, Information privacy, impact assessment, and the place of ethics, Computer Law & Security Review, https://doi.org/10.1016/j.clsr.2020.105404., 105404, 2020
 
+
+Quellen Miriam
+[1] Schwab, P.:  Learning to treat, explain and diagnose with neural networks. ETH Zürich, 192–197, (2019)
+
+[2] Carter, M., S., Rogers, W., Win, K., T., Frazer, H., Richards, B., Houssami, N.,: The ethical, legal and social implications of using artificial intelligence systems in breast cancer care. The Breast, 25-32 (2020) 
+
+[3] Kulkarni, S., Seneviratne, N., Baig, S., M., Khan, A., H., A.,: Artificial Intelligence in Medicine: Where Are We Now?. Academic Radiology, 62-70 (2020)
+
+[4] Hamet, P., Tremblay, J.,: Artificial intelligence in medicine. Metabolism, 36-40 (2017)
+
+[5] Pesapane, F., Codari, M.,  Sardanelli, F.,: Artificial intelligence in medical imaging: threat or opportunity? Radiologists again at the forefront of innovation in medicine.
+European Radiology Experimental, (2018)
+
+
+
+
 Eidesstattliche Erklärung
 	
 	-Finale Bewertung der Untersuchung selbst
