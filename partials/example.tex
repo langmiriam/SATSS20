@@ -1,0 +1,18 @@
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=1.0\textwidth]{images/bspbild.jpg}
+    \caption{\label{fig:bsp}
+        Beispielbild
+        \protect\footfullcite{web_bspbild}
+    }
+\end{figure}
+
+Abbildungen werden so referenziert: Wie in Abbildung~\ref{fig:bsp} \ldots.\\
+Eine neue Seite machen wir mit \lstinline|newpage|. \newpage
+Wir referenzieren ein Kapitel mit \nameref{sec:foo}.\\
+Quellen aus dem Internet werden mit Fusszeilenkommentaren zitiert.\footfullcite{web_bspbild}\\
+Artikel, Bücher, usw.\ werden mit der normalen Zitierweise zitiert.\cite{usa_ai_approval}\\
+Eine \gls{abk} oder mehrere \glspl{abk} kann man als Akronym und Glossareintrag schreiben.
+Hierfür müssen sowohl attachments/acronyms.tex als 
+auch attachments/glossar.tex angepasst werden.\\
+Wir untersuchen die \gls{KI} im medizinischen Umfeld.
