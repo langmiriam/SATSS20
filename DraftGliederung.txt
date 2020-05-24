@@ -1,0 +1,121 @@
+Gliederung:
+(?) -> Am Dienstag nachfragen, unsicher ob es dazugehören sollte
+
+(Deckblatt)
+
+Abstract (Evelyn)
+	Thema zusammenfassen, vorgehensweise kurz beschreiben, geplantes Ziel usw.
+(Schlagwörter)
+
+Inhaltsverzeichnis
+Verzeichnisse der Bilder, Tabellen, Programme (?)
+
+1.Einführung (Alex)
+	-grundsätzliche Zielsetzung der Untersuchung formulieren und Untersuchungsthema eingrenzen
+	-Konkret zentrale Fragestellung formulieren
+	-evtl noch eine oder mehrere Hypothesen
+	-Methode nennen und begründen
+	- Aufbau der Arbeit Chronologisch erläutern
+	-Die häufig gestellte Frage, inwieweit die genannten Punkte als zusammenhängender Text oder kapitelweise aufbereitet sein sollten,
+	kann nicht ‚richtig‘ oder ‚falsch‘ beantwortet werden: Die Aufbereitung muss sich immer nach der jeweiligen Untersuchung richten.
+	-Optional: Verweise auf die Verwendeten Quellen, beispielsweise die starke Konzentration auf Online-Quellen aufgrund fehlender anderer Quellen.
+	
+	1.1 Motivation, Kontext und Gegenstand
+		1.1.1 Motivation
+			->Ki werden vermutlich nicht richtig reguliert, bzw. es ist unklar wie sie reguliert werden sollen
+		1.1.2 Kontext und Gegenstand
+			->Fokus der Arbeit auf Richtlinien und nicht Software Qualitätsmerkmale
+		
+	1.2 Ziele
+		1.2.1 Zentrale Fragestellung
+		1.2.2 Hypothesen, Unterforschungsfragen (?)
+		
+	1.3 Vorgehensweise und Gliederung
+		1.3.1 Methodik
+			->Literature Review, Research, Review of Guidelines, Comparison to Industry standards
+		1.3.2 Gliederung
+			->Unser Vorgehen bei der Untersuchung beschreiben
+	
+
+Haupteil
+In der Einleitung angekündigten Schritte "real" umsetzen
+
+	-Darstellung des aktuellen Forschungsstandes und explizite begründung
+	der zentralen Fragestellung
+	-Argumentation usw.
+	
+	2.Darstellung des bisherigen Zulassungsverfahrens
+		->Zeigen wie Geräte verschiedenster Art bisher zugelassen werden
+		2.1 Zulassungsverfahren in der Europäischen Union (Evelyn)
+			2.1.1 Für Medizinische Geräte ohne Künstliche Intelligenz
+				->Generelle Richtlinien die allgemeingültig sind
+			evlt. 2.1.2 Besonderheiten bei Software (?)
+				->Zum Beispiel Qualitätsprüfverfahren erläutern
+			2.1.3 Für Medizinische Geräte mit Künstlicher Intelligenz
+				->Wie bei Software, aber auf KI bezogen
+		2.2. Zulassungsverfahren in den US (Alex)
+			2.2.1 Für Medizinische Geräte ohne Künstliche Intelligenz
+			evlt. 2.2.2 Besonderheiten bei Software (?)
+			2.2.3 Für Medizinische Geräte mit Künstlicher Intelligenz
+	
+	3. Analyse und Bewertung
+		->In diesem Abschnitt werden die Forschungsfragen beantwortet
+		3.1 Analyse
+			3.1.1 Besondere Kriterien für die Zulassung von medizinischen Produkten mit KI (Evelyn)
+			3.1.2 Welche Vorteile bringt KI dem Patienten gegenüber? (Miriam)
+			3.1.3 Welche Grenzen haben die Vorteile von KI in der Medizin? (Miriam)
+			3.1.4 
+		3.2 Bewertung
+			3.2.1 Inwieweit gelten die aktuellen Richtlinien auch für medizinische Produkte mit KI? (Alex)
+			3.2.2 Sind die besonderen Kriterien für die Zulassung von KI in der medizin ausreichend? (Evelyn)
+
+			
+
+	4. Fazit (Miriam)
+		4.1 Zusammenfassung der Ergebnisse
+		4.2 Bewertung der Ergebnisse
+		4.3 Lösungsansätze zur Zulassung von KI
+			->Unsere Vorschläge zur Lösung von Problemen, welche wir gefunden haben
+		4.4 Offene Fragen
+			->Zum Beispiel fehlende Erfahrung/Fälle im Gebiet KI in der Medizin
+
+5.Literaturverzeichnis
+Quellen Alex
+1.Sharma, G., Yadav, A., Chopra, R. : Artificial intelligence and effective governance: A review, critique and research agenda, ScienceDirect, https://www.sciencedirect.com/science/article/pii/S2666188819300048 , 2020
+
+2.LaRosa, E., Danks, D. : Impacts on Trust of Healthcare AI. In Proceedings of the 2018 AAAI/ACM Conference on AI, Ethics, and Society (AIES ’18), Association for Computing Machinery, New York, NY, USA, 210–215. DOI:https://doi.org/10.1145/3278721.3278771, 2018
+
+3.Lisboa, P. J. G. : A review of evidence health benefit from artificial neural networks in medical intervention, ScienceDirect,
+https://www.sciencedirect.com/science/article/abs/pii/S0893608001001113 ,2002
+
+4.  Dwivedia, Y. K., Hughes, L., Ismagilova, E., Gert, A., Williams, M.D., Coombs, C., Crick, T., Duan, Y., Dwivedi, R., Edwards, J., Eirug, A., Galanos, V., Ilavarasan, P.V., Janssen, M., Jones, P., Kar, A.K., Kizgin, H., Kronemann, B., Lal, B., Lucini,B., Medaglia, R., Meunier-FitzHugh, K., Meunier-FitzHugh, L.C., Musra, S., Mogaji, E., Sharma, S.K., Singh, J.B., Raghavan, V., Raman, R., Rana, N.P., Samothrakis, S., Spencer, J., Tamilmani, K., Tubadji, A., Walton, P. : Artificial Intelligence (AI): Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy,
+ScienceDirect, https://www.sciencedirect.com/science/article/abs/pii/S026840121930917X , 2019
+
+5.Ahmad, M.A., Eckert, C., Teredesai. A. : Interpretable Machine Learning in Healthcare. In Proceedings of the 2018 ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics (BCB ’18), Association for Computing Machinery, New York, NY, USA, 559–560. DOI: https://doi.org/10.1145/3233547.3233667
+
+6. Ait Zaouiat, C. E., Latif, A. : Internet of Things and Machine Learning Convergence: The E-healthcare Revolution.
+In Proceedings of the 2nd International Conference on Computing and Wireless Communication Systems (ICCWCS’17), Association for Computing Machinery, New York, NY, USA, Article 62, 1–5. DOI: https://doi.org/10.1145/3167486.3167551 2018
+
+Quellen Evelyn
+[1] Schwab, P.: Learning to treat, explain and diagnose with neutral networks, ETH Zurich, Research Collection, Doctoral Thesis, https://www.researchcollection.ethz.ch/bitstream/handle/20.500.11850/379702/1/schwab_thesis_r evised_draft8_24Sep2019.pdf, 2019
+
+[2] C.W.L. Ho, D. Soon, K. Caals, J. Kapur, Governance of automated image analysis and artificial intelligence analytics in healthcare, Clinical Radiology, Volume 74, Issue 5, https://doi.org/10.1016/j.crad.2019.02.005., Pages 329-337, 2019
+
+[3] Michael D. Abràmoff, Danny Tobey, Danton S. Char, Lessons Learned About Autonomous AI: Finding a Safe, Efficacious, and Ethical Path Through the Development Process, American Journal of Ophthalmology, https://doi.org/10.1016/j.ajo.2020.02.022., 2020
+
+[4] Kush R. Varshney, Trustworthy machine learning and artificial intelligence, XRDS: Crossroads, The ACM Magazine for Students, https://dl.acm.org/doi/10.1145/3313109, 2019
+
+[5] Charles D. Raab, Information privacy, impact assessment, and the place of ethics, Computer Law & Security Review, https://doi.org/10.1016/j.clsr.2020.105404., 105404, 2020
+
+Eidesstattliche Erklärung
+	
+	-Finale Bewertung der Untersuchung selbst
+	(besonderheiten des UNtersuchungsablaufes nennen und zentrale ergebnisse lsiten)
+	-Eindeutiges gesamteergebnis formulieren ->konkrete Antwrt auf die Fragestellung
+	
+	-Einordnung des konkreten Untersuchungergebnisses nd den wissenschaftlichen gesamtkontext
+	Ergebnisdefizite der Untersuchung nennen – hier geht es nicht(!) um das Aufzeigen persönlicher Versäumnisse,
+	sondern um Hinweise auf mögliche natürliche Restriktionen der Untersuchung. Nur so kann der neu erreichte wissenschaftliche Forschungsstand exakt(!) dokumentiert werden
+	enn aus diesem neuen wissenschaftlichen Forschungsstand sollten die Studierenden dann final – und quasi als Anreiz für die weitere Beschäftigung mit dem Untersuchungsthema – daraus abzuleitende,
+	neue wissenschaftliche Forschungsaspekte oder gar Fragestellungen aufzeigen.
+	
