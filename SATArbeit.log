@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.4.28)  24 MAY 2020 16:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.4.28)  24 MAY 2020 19:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -277,12 +277,12 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 78.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 78.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 78.
 Package rerunfilecheck Info: File `SATArbeit.out' has not changed.
-(rerunfilecheck)             Checksum: A855A05783F2D9FA6E4793F08D98C9C9;2693.
+(rerunfilecheck)             Checksum: 7C858BA823C678E287336177695D2142;2714.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 78.
  ) 
 Here is how much of TeX's memory you used:
  5897 strings out of 480607
- 90275 string characters out of 5907502
+ 90285 string characters out of 5907502
  356056 words of memory out of 5000000
  21697 multiletter control sequences out of 15000+600000
  536698 words of font info for 39 fonts, out of 8000000 for 9000
@@ -290,7 +290,7 @@ Here is how much of TeX's memory you used:
  34i,4n,36p,284b,309s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/tex
 live/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on SATArbeit.pdf (4 pages, 44590 bytes).
+Output written on SATArbeit.pdf (4 pages, 44583 bytes).
 PDF statistics:
  194 PDF objects out of 1000 (max. 8388607)
  184 compressed objects within 2 object streams
