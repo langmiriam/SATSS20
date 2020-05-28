@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.4.28)  24 MAY 2020 21:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.4.28)  28 MAY 2020 12:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1581,13 +1581,13 @@ Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
 (lastpage)             ! on input line 10.
 (./partials/title.tex
-<images/INFLogo.png, id=131, 120.70094pt x 50.1875pt>
+<images/INFLogo.png, id=111, 120.70094pt x 50.1875pt>
 File: images/INFLogo.png Graphic file (type png)
 <use images/INFLogo.png>
 Package pdftex.def Info: images/INFLogo.png  used on input line 4.
 (pdftex.def)             Requested size: 90.52547pt x 37.64052pt.
  (./partials/abstract.tex)
-<images/FHRTFooter.png, id=136, 1738.24406pt x 260.47313pt>
+<images/FHRTFooter.png, id=116, 1738.24406pt x 260.47313pt>
 File: images/FHRTFooter.png Graphic file (type png)
 <use images/FHRTFooter.png>
 Package pdftex.def Info: images/FHRTFooter.png  used on input line 48.
@@ -1635,7 +1635,7 @@ nation with the same identifier (name{page.1}) has been already used, duplicate
  ignored
 <to be read again> 
                    \relax 
-l.54 ...? \small {Miriam}}{6}{subsubsection.3.1.4}
+l.54 ...male Verwendung der KI}{6}{subsection.4.4}
                                                   % [1])
 \tf@toc=\write10
 \openout10 = `SATArbeit.toc'.
@@ -1648,38 +1648,55 @@ LaTeX Font Info:    Trying to load font information for TS1+jkpss on input line
 File: ts1jkpss.fd 2007/07/16 Fontinst v1.928 font definitions for TS1/jkpss.
 )) (./partials/motivationcontext.tex) (./partials/motivation.tex)
 (./partials/context.tex) (./partials/goals.tex) (./partials/questions.tex)
-(./partials/hypotheses.tex) (./partials/procedure.tex) (./partials/method.tex)
-(./partials/structure.tex
+(./partials/hypotheses.tex) (./partials/procedure.tex)
+(./partials/structure.tex)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
 Make it at least 13.59999pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[3]) [4] (./partials/admission.tex) (./partials/europe.tex)
-(./partials/europe-no-ai.tex) (./partials/europe-software.tex)
-(./partials/europe-with-ai.tex) (./partials/us.tex) (./partials/us-no-ai.tex)
-(./partials/us-software.tex) (./partials/us-with-ai.tex) [5]
-(./partials/analysis.tex) (./partials/special-criteria.tex)
-(./partials/ki-today.tex) (./partials/ki-advantages.tex)
-(./partials/ki-limitations.tex) [6] (./partials/conclusion.tex)
-(./partials/summary.tex) (./partials/rating.tex) (./partials/solutions.tex)
-(./partials/alternatives.tex) [7] (./SATArbeit.acr) [8]
+[3] (./partials/admission.tex) (./partials/europe.tex)
+(./partials/europe-no-ai.tex) (./partials/europe-with-ai.tex)
+(./partials/us.tex) (./partials/us-no-ai.tex) (./partials/us-with-ai.tex)
+[4] (./partials/special-criteria.tex) (./partials/ki-today.tex)
+(./partials/ki-advantages.tex) (./partials/ki-limitations.tex)
 
-LaTeX Warning: Empty bibliography on input line 95.
+Package Fancyhdr Warning: \headheight is too small (13.59999pt): 
+Make it at least 27.01491pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
 
-[9] (./SATArbeit.gls) [10] 
+[5] (./partials/conclusion.tex) (./partials/summary.tex) (./partials/rating.tex
+) (./partials/solutions.tex) (./partials/alternatives.tex) [6]
+No file SATArbeit.acr.
+[7]
+
+LaTeX Warning: Empty bibliography on input line 87.
+
+[8]
+No file SATArbeit.gls.
+[9] 
 AED: lastpage setting LastPage
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 100.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 100.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 92.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 92.
 (./SATArbeit.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 100.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 100.
-Package rerunfilecheck Info: File `SATArbeit.out' has not changed.
-(rerunfilecheck)             Checksum: 12F0747096A9D631D87DF6A0B4882D6F;2716.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 92.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 92.
 
+
+Package rerunfilecheck Warning: File `SATArbeit.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `SATArbeit.out':
+(rerunfilecheck)             Before: 186BBE2EFD4B88FC2E0D405C911E7559;2262
+(rerunfilecheck)             After:  F168A3612E69D788213BE5C1EF996A14;2263.
 
 LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 
 Package biblatex Warning: Please (re)run Biber on the file:
@@ -1689,23 +1706,23 @@ Package biblatex Warning: Please (re)run Biber on the file:
 Package logreq Info: Writing requests to 'SATArbeit.run.xml'.
 \openout1 = `SATArbeit.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 100.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 92.
  ) 
 Here is how much of TeX's memory you used:
- 34224 strings out of 480607
- 631240 string characters out of 5907502
- 1400151 words of memory out of 5000000
- 49287 multiletter control sequences out of 15000+600000
+ 34187 strings out of 480607
+ 630524 string characters out of 5907502
+ 1399779 words of memory out of 5000000
+ 49272 multiletter control sequences out of 15000+600000
  584708 words of font info for 77 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  63i,12n,69p,1154b,2348s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2020/texm
 f-dist/fonts/type1/public/kpfonts/jkpssbn8a.pfb><c:/texlive/2020/texmf-dist/fon
 ts/type1/public/kpfonts/jkpssmn8a.pfb>
-Output written on SATArbeit.pdf (11 pages, 101644 bytes).
+Output written on SATArbeit.pdf (10 pages, 100407 bytes).
 PDF statistics:
- 253 PDF objects out of 1000 (max. 8388607)
- 232 compressed objects within 3 object streams
- 44 named destinations out of 1000 (max. 500000)
- 271 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 221 PDF objects out of 1000 (max. 8388607)
+ 201 compressed objects within 3 object streams
+ 38 named destinations out of 1000 (max. 500000)
+ 231 words of extra memory for PDF output out of 10000 (max. 10000000)
 

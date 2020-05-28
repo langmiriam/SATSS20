@@ -3,7 +3,7 @@
 \defcounter {refsection}{0}\relax 
 \thispagestyle {empty}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1}Einführung \small {Alex}}{3}{section.1}%
+\contentsline {section}{\numberline {1}Einführung \small {(Alex)}}{3}{section.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.1}Motivation, Kontext und Gegenstand}{3}{subsection.1.1}%
 \defcounter {refsection}{0}\relax 
@@ -17,50 +17,40 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {1.2.2}Hypothesen, Unterforschungsfragen \small {?}}{3}{subsubsection.1.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3}Vorgehensweise und Gliederung}{3}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.3}Vorgehensweise}{3}{subsection.1.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.3.1}Methodik}{4}{subsubsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.4}Gliederung}{3}{subsection.1.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.3.2}Gliederung}{4}{subsubsection.1.3.2}%
+\contentsline {section}{\numberline {2}Darstellung des bisherigen Zulassungsverfahrens}{4}{section.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Darstellung des bisherigen Zulassungsverfahrens}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Zulassungsverfahren in der Europäischen Union \small {(Evelyn)}}{4}{subsection.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1}Zulassungsverfahren in der Europäischen Union \small {Evelyn}}{5}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Für medizinische Geräte ohne Künstliche Intelligenz}{4}{subsubsection.2.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.1.1}Für medizinische Geräte ohne Künstliche Intelligenz}{5}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Für medizinische Geräte mit Künstlicher Intelligenz}{4}{subsubsection.2.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.1.2}Besonderheiten bei Software \small {?}}{5}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}Zulassungsverfahren in den US \small {(Alex)}}{4}{subsection.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.1.3}Für medizinische Geräte mit Künstlicher Intelligenz}{5}{subsubsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.2.1}Für medizinische Geräte ohne Künstliche Intelligenz}{4}{subsubsection.2.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2}Zulassungsverfahren in den US \small {Alex}}{5}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.2}Für medizinische Geräte mit Künstlicher Intelligenz}{4}{subsubsection.2.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.2.1}Für medizinische Geräte ohne Künstliche Intelligenz}{5}{subsubsection.2.2.1}%
+\contentsline {section}{\numberline {3}Kriterien für die Zulassung von medizinischen Produkten mit KI \small {(Evelyn)}}{5}{section.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.2.2}Besonderheiten bei Software \small {?}}{5}{subsubsection.2.2.2}%
+\contentsline {subsection}{\numberline {3.1}Medizin Produkte mit KI in der heutigen Medizin \small {(Miriam)}}{5}{subsection.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.2.3}Für medizinische Geräte mit Künstlicher Intelligenz}{5}{subsubsection.2.2.3}%
+\contentsline {subsection}{\numberline {3.2}Vorteile von KI für den Patienten \small {(Miriam)}}{5}{subsection.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Analyse und Bewertung}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.3}Grenzen von KI in der Medizin \small {(Miriam)}}{5}{subsection.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1}Analyse}{6}{subsection.3.1}%
+\contentsline {section}{\numberline {4}Fazit \small {(Miriam)}}{6}{section.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.1.1}Besondere Kriterien für die Zulassung von medizinischen Produkten mit KI \small {Evelyn}}{6}{subsubsection.3.1.1}%
+\contentsline {subsection}{\numberline {4.1}Zusammenfassung der Ergebnisse}{6}{subsection.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.1.2}Medizin Produkte mit KI in der heutigen Medizin \small {Miriam}}{6}{subsubsection.3.1.2}%
+\contentsline {subsection}{\numberline {4.2}Bewertung der Ergebnisse}{6}{subsection.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.1.3}Welche Vorteile bringt die KI dem Patienten gegenüber? \small {Miriam}}{6}{subsubsection.3.1.3}%
+\contentsline {subsection}{\numberline {4.3}Lösungsansätze zur Zulassung von KI}{6}{subsection.4.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.1.4}Wo liegen die Grenzen von KI in der Medizin? \small {Miriam}}{6}{subsubsection.3.1.4}%
+\contentsline {subsection}{\numberline {4.4}Mögliche Alternativen für die optimale Verwendung der KI}{6}{subsection.4.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Fazit \small {Miriam}}{7}{section.4}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1}Zusammenfassung der Ergebnisse}{7}{subsection.4.1}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2}Bewertung der Ergebnisse}{7}{subsection.4.2}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3}Lösungsansätze zur Zulassung von KI}{7}{subsection.4.3}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.4}Mögliche Alternativen für die optimale Verwendung der KI}{7}{subsection.4.4}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Literatur}{9}{section*.2}%
+\contentsline {section}{Literatur}{8}{section*.2}%
