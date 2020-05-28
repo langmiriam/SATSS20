@@ -45,7 +45,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4}Diskussion}{6}{section.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1}Lösungsansätze zur Zulassung von KI \small {(Miriam)}}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.1}Lösungsansätze zur Zulassung von medizinischen Produktem mit KI \small {(Miriam)}}{6}{subsection.4.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.2}Aktuelle Richtlinien für medizinische Produkte mit KI \small {(Alex)}}{6}{subsection.4.2}%
 \defcounter {refsection}{0}\relax 
