@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.24)  1 JUN 2020 11:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.24)  2 JUN 2020 19:23
 entering extended mode
 **./SATArbeit.tex
 (SATArbeit.tex
@@ -1435,7 +1435,7 @@ File: biblatex.cfg
 (D:\Programme\miktex\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 104.
+Package hyperref Info: Option `colorlinks' set `true' on input line 107.
 
 (D:\Programme\miktex\tex/latex/setspace\setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
@@ -1585,74 +1585,69 @@ Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             ! on input line 10.
 
 (partials/title.tex
-<images/INFLogo.png, id=118, 120.70094pt x 50.1875pt>
+<images/INFLogo.png, id=110, 120.70094pt x 50.1875pt>
 File: images/INFLogo.png Graphic file (type png)
 <use images/INFLogo.png>
 Package pdftex.def Info: images/INFLogo.png  used on input line 4.
 (pdftex.def)             Requested size: 90.52547pt x 37.64052pt.
- (partials/abstract.tex)
-<images/FHRTFooter.png, id=123, 1738.24406pt x 260.47313pt>
-File: images/FHRTFooter.png Graphic file (type png)
-<use images/FHRTFooter.png>
-Package pdftex.def Info: images/FHRTFooter.png  used on input line 54.
-(pdftex.def)             Requested size: 467.13074pt x 69.9988pt.
+ [1
 
-Overfull \hbox (402.33337pt too wide) has occurred while \output is active
-[][] 
+\openout6 = `SATArbeit.ist'.
+
+{C:/Users/Evelyn/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./images/I
+NFLogo.png>]) (partials/abstract2.tex)
+Overfull \hbox (0.47725pt too wide) in paragraph at lines 4--16
+\T1/jkpss/m/n/10.95 Ver-bes-se-run-gen von Gen-be-ar-bei-tung. Da-mit die me-di
+-zi-ni-schen KI-Produkte
  []
 
-LaTeX Font Info:    Trying to load font information for OT1+jkp on input line 5
-4.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.17     \newpage
+                  [1] (SATArbeit.toc
+LaTeX Font Info:    Trying to load font information for OT1+jkp on input line 8
+.
+
 (D:\Programme\miktex\tex/latex/kpfonts\ot1jkp.fd
 File: ot1jkp.fd 2007/08/30 Fontinst v1.928 font definitions for OT1/jkp.
 )
 LaTeX Font Info:    Trying to load font information for U+jkpsya on input line 
-54.
+8.
 
 (D:\Programme\miktex\tex/latex/kpfonts\ujkpsya.fd
 File: ujkpsya.fd 2006/08/15 v1.0
 )
 LaTeX Font Info:    Trying to load font information for U+jkpsyb on input line 
-54.
+8.
 
 (D:\Programme\miktex\tex/latex/kpfonts\ujkpsyb.fd
 File: ujkpsyb.fd 2006/08/15 v1.0
 )
 LaTeX Font Info:    Trying to load font information for U+jkpmia on input line 
-54.
+8.
 
 (D:\Programme\miktex\tex/latex/kpfonts\ujkpmia.fd
 File: ujkpmia.fd 2006/08/15 v1.0
 )
 LaTeX Font Info:    Trying to load font information for U+jkpsyc on input line 
-54.
+8.
 
 (D:\Programme\miktex\tex/latex/kpfonts\ujkpsyc.fd
 File: ujkpsyc.fd 2006/08/15 v1.0
-) [1
-
-\openout6 = `SATArbeit.ist'.
-
-{C:/Users/Evelyn/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./images/F
-HRTFooter.png> <./images/INFLogo.png>]) (SATArbeit.tocpdfTeX warning (ext4): de
-stination with the same identifier (name{page.1}) has been already used, duplic
-ate ignored
-<to be read again> 
-                   \relax 
-l.50 ...mit KI \small {(Alex)}}{6}{subsection.4.2}
-                                                  % [1])
+))
 \tf@toc=\write10
 \openout10 = `SATArbeit.toc'.
 
- [2]
-(partials/intro.tex
+ [2] (partials/intro.tex
 LaTeX Font Info:    Trying to load font information for TS1+jkpss on input line
  2.
- (D:\Programme\miktex\tex/latex/kpfonts\ts1jkpss.fd
+
+(D:\Programme\miktex\tex/latex/kpfonts\ts1jkpss.fd
 File: ts1jkpss.fd 2007/07/16 Fontinst v1.928 font definitions for TS1/jkpss.
 ))
-(partials/motivationcontext.tex) (partials/motivation.tex)
-(partials/context.tex) (partials/goals.tex) (partials/questions.tex)
+(partials/motivationcontext.tex) (partials/goals.tex) (partials/questions.tex)
 (partials/hypotheses.tex) (partials/procedure.tex) (partials/structure.tex)
 [3]
 Overfull \hbox (1.33856pt too wide) in paragraph at lines 41--41
@@ -1668,26 +1663,24 @@ Overfull \hbox (1.33856pt too wide) in paragraph at lines 41--41
 (partials/sufficient-criteria.tex) [6] (partials/conclusion.tex)
 (partials/summary.tex) (partials/rating.tex) (partials/perspective.tex)
 [7] (SATArbeit.acr) [8]
-LaTeX Font Info:    Font shape `T1/jkpss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/jkpss/m/sl' tried instead on input line 94.
 LaTeX Font Info:    Trying to load font information for T1+jkptt on input line 
 94.
  (D:\Programme\miktex\tex/latex/kpfonts\t1jkptt.fd
 File: t1jkptt.fd 2007/01/26 Fontinst v1.928 font definitions for T1/jkptt.
 )
 [9]
-Overfull \hbox (6.60939pt too wide) in paragraph at lines 94--94
-\T1/jkpss/m/n/10.95 the De-ve-lop-ment Pro-cess, \T1/jkpss/m/sl/10.95 Ame-ri-ca
-n Jour-nal of Oph-thal-mo-lo-gy\T1/jkpss/m/n/10.95 , 2020,
+Overfull \hbox (5.51437pt too wide) in paragraph at lines 94--94
+\T1/jkpss/m/n/10.95 the De-ve-lop-ment Pro-cess, Ame-ri-can Jour-nal of Oph-tha
+l-mo-lo-gy, 2020,
  []
 
-[10]
+
 Overfull \hbox (5.71451pt too wide) in paragraph at lines 94--94
 \T1/jkpss/m/n/10.95 fec-ti-ve go-ver-nance: A re-view, cri-ti-que and re-se-arc
-h agen-da, \T1/jkpss/m/sl/10.95 Su-staina-
+h agen-da, Su-staina-
  []
 
-[11] (SATArbeit.gls) [12] 
+[10] (SATArbeit.gls) [11] 
 AED: lastpage setting LastPage
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 99.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 99.
@@ -1695,30 +1688,29 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 99.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 99.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 99.
 Package rerunfilecheck Info: File `SATArbeit.out' has not changed.
-(rerunfilecheck)             Checksum: 81D243051B10ACBDDF8B7F9898BD540E;2508.
+(rerunfilecheck)             Checksum: B794E553E21F31066508865B41758162;2324.
 Package logreq Info: Writing requests to 'SATArbeit.run.xml'.
 \openout1 = `SATArbeit.run.xml'.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 99.
  ) 
 Here is how much of TeX's memory you used:
- 34738 strings out of 480765
- 641165 string characters out of 2908083
- 1412700 words of memory out of 3000000
- 49885 multiletter control sequences out of 15000+200000
- 595704 words of font info for 86 fonts, out of 3000000 for 9000
+ 34706 strings out of 480765
+ 640460 string characters out of 2908083
+ 1413516 words of memory out of 3000000
+ 49863 multiletter control sequences out of 15000+200000
+ 591286 words of font info for 85 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
- 63i,11n,69p,1156b,2358s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 63i,11n,69p,1156b,1759s stack positions out of 5000i,500n,10000p,200000b,50000s
 {D:/Programme/miktex/fonts/enc/dvips/kpfonts/kpfonts-expert.enc}{D:/Programme
 /miktex/fonts/enc/dvips/base/8r.enc}<D:/Programme/miktex/fonts/type1/public/kpf
 onts/jkpssbn8a.pfb><D:/Programme/miktex/fonts/type1/public/kpfonts/jkpssmn8a.pf
-b><D:/Programme/miktex/fonts/type1/public/kpfonts/jkpssmn8a.pfb><D:/Programme/m
-iktex/fonts/type1/public/kpfonts/jkpssmne.pfb><D:/Programme/miktex/fonts/type1/
-public/kpfonts/jkpssmsc8a.pfb><D:/Programme/miktex/fonts/type1/public/kpfonts/j
-kpttmn8a.pfb>
-Output written on SATArbeit.pdf (13 pages, 164715 bytes).
+b><D:/Programme/miktex/fonts/type1/public/kpfonts/jkpssmne.pfb><D:/Programme/mi
+ktex/fonts/type1/public/kpfonts/jkpssmsc8a.pfb><D:/Programme/miktex/fonts/type1
+/public/kpfonts/jkpttmn8a.pfb>
+Output written on SATArbeit.pdf (12 pages, 96420 bytes).
 PDF statistics:
- 325 PDF objects out of 1000 (max. 8388607)
- 63 named destinations out of 1000 (max. 500000)
- 247 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 288 PDF objects out of 1000 (max. 8388607)
+ 60 named destinations out of 1000 (max. 500000)
+ 226 words of extra memory for PDF output out of 10000 (max. 10000000)
 

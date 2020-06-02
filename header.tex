@@ -67,6 +67,9 @@ backend=biber,
 style=ieee,
 sorting=ynt
 ]{biblatex}
+\setcounter{biburllcpenalty}{7000}
+\setcounter{biburlucpenalty}{8000}
+\DeclareFieldFormat{journaltitle}{#1\isdot}
 \DeclareFieldFormat[article]{citetitle}{#1}
 \DeclareFieldFormat[article]{title}{#1}
 \DeclareFieldFormat[report]{citetitle}{#1}
