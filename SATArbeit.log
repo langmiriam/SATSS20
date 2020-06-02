@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.24)  2 JUN 2020 19:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.24)  2 JUN 2020 20:46
 entering extended mode
 **./SATArbeit.tex
 (SATArbeit.tex
@@ -1595,14 +1595,8 @@ Package pdftex.def Info: images/INFLogo.png  used on input line 4.
 \openout6 = `SATArbeit.ist'.
 
 {C:/Users/Evelyn/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./images/I
-NFLogo.png>]) (partials/abstract2.tex)
-Overfull \hbox (0.47725pt too wide) in paragraph at lines 4--16
-\T1/jkpss/m/n/10.95 Ver-bes-se-run-gen von Gen-be-ar-bei-tung. Da-mit die me-di
--zi-ni-schen KI-Produkte
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
+NFLogo.png>]) (partials/abstract2.tex)pdfTeX warning (ext4): destination with t
+he same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.17     \newpage
@@ -1697,7 +1691,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 99.
 Here is how much of TeX's memory you used:
  34706 strings out of 480765
  640460 string characters out of 2908083
- 1413516 words of memory out of 3000000
+ 1414516 words of memory out of 3000000
  49863 multiletter control sequences out of 15000+200000
  591286 words of font info for 85 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
@@ -1708,7 +1702,7 @@ onts/jkpssbn8a.pfb><D:/Programme/miktex/fonts/type1/public/kpfonts/jkpssmn8a.pf
 b><D:/Programme/miktex/fonts/type1/public/kpfonts/jkpssmne.pfb><D:/Programme/mi
 ktex/fonts/type1/public/kpfonts/jkpssmsc8a.pfb><D:/Programme/miktex/fonts/type1
 /public/kpfonts/jkpttmn8a.pfb>
-Output written on SATArbeit.pdf (12 pages, 96420 bytes).
+Output written on SATArbeit.pdf (12 pages, 96418 bytes).
 PDF statistics:
  288 PDF objects out of 1000 (max. 8388607)
  60 named destinations out of 1000 (max. 500000)
