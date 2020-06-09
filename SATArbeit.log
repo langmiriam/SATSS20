@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.4.28)  9 JUN 2020 21:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.4.28)  9 JUN 2020 22:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1726,19 +1726,81 @@ Overfull \hbox (6.14932pt too wide) in paragraph at lines 11--61
 chein-lich des-halb nann-
  []
 
-(./partials/ki-advantages.tex) (./partials/ki-limitations.tex) [8]
-(./partials/discussion.tex) (./partials/solutions.tex)
-(./partials/guidlines.tex) (./partials/sufficient-criteria.tex) [9]
+(./partials/ki-advantages.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
+
+ []
+
+[8]
+Overfull \hbox (3.25853pt too wide) in paragraph at lines 6--9
+\T1/jkpss/m/n/10.95 ben.[cha14]. Die-se In-for-ma-ti-on wer-den in den Te-le-mo
+ni-to-ring Zen-tren durch
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--9
+
+ []
+
+) (./partials/ki-limitations.tex [9]
+Overfull \hbox (1.25146pt too wide) in paragraph at lines 3--4
+\T1/jkpss/m/n/10.95 satz trai-niert wur-den, nur be-grenzt auf an-de-re Da-ten-
+sät-ze an-wend-bar sind.
+ []
+
+
+Overfull \hbox (2.69759pt too wide) in paragraph at lines 3--4
+\T1/jkpss/m/n/10.95 nings-da-ten ge-lernt, an-statt der all-ge-mei-nen Kon-zep-
+te, wel-che zur Pro-blem-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--7
+
+ []
+
+[10]
+Overfull \hbox (7.96266pt too wide) in paragraph at lines 8--11
+\T1/jkpss/m/n/10.95 schu-len ei-nes KI ge-stütz-ten Diagnose- und Emp-feh-lungs
+-sy-stem könn-te theo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--11
+
+ []
+
+) [11] (./partials/discussion.tex) (./partials/solutions.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 3--70
+
+ []
+
+(./partials/guidlines.tex) (./partials/sufficient-criteria.tex) [12]
 (./partials/conclusion.tex) (./partials/summary.tex) (./partials/rating.tex)
-(./partials/perspective.tex) [10]
+(./partials/perspective.tex) [13]
 No file SATArbeit.acr.
-[11]
+[14]
 
 LaTeX Warning: Empty bibliography on input line 94.
 
-[12]
+[15]
 No file SATArbeit.gls.
-[13] 
+[16] 
 AED: lastpage setting LastPage
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 99.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 99.
@@ -1752,6 +1814,9 @@ Package rerunfilecheck Info: File `SATArbeit.out' has not changed.
 LaTeX Warning: There were undefined references.
 
 
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                SATArbeit
 (biblatex)                and rerun LaTeX afterwards.
@@ -1762,10 +1827,10 @@ Package logreq Info: Writing requests to 'SATArbeit.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 99.
  ) 
 Here is how much of TeX's memory you used:
- 34275 strings out of 480607
- 632409 string characters out of 5907502
- 1402642 words of memory out of 5000000
- 49340 multiletter control sequences out of 15000+600000
+ 34286 strings out of 480607
+ 632602 string characters out of 5907502
+ 1403835 words of memory out of 5000000
+ 49348 multiletter control sequences out of 15000+600000
  585466 words of font info for 79 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  63i,11n,69p,1655b,1757s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1774,10 +1839,10 @@ xlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2020/texmf-dist/f
 onts/type1/public/kpfonts/jkpssbn8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1
 /public/kpfonts/jkpssmn8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/kp
 fonts/jkpssmne.pfb>
-Output written on SATArbeit.pdf (14 pages, 58732 bytes).
+Output written on SATArbeit.pdf (17 pages, 68753 bytes).
 PDF statistics:
- 243 PDF objects out of 1000 (max. 8388607)
- 219 compressed objects within 3 object streams
- 43 named destinations out of 1000 (max. 500000)
+ 255 PDF objects out of 1000 (max. 8388607)
+ 228 compressed objects within 3 object streams
+ 46 named destinations out of 1000 (max. 500000)
  234 words of extra memory for PDF output out of 10000 (max. 10000000)
 

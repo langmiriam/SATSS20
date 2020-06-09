@@ -37,22 +37,22 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.2}Vorteile von KI für den Patienten \small {(Miriam)}}{8}{subsection.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3}Grenzen von KI in der Medizin \small {(Miriam)}}{8}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.3}Grenzen von KI in der Medizin \small {(Miriam)}}{10}{subsection.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Diskussion}{9}{section.4}%
+\contentsline {section}{\numberline {4}Diskussion}{12}{section.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1}Lösungsansätze zur Zulassung von KI \small {(Miriam)}}{9}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.1}Lösungsansätze zur Zulassung von KI \small {(Miriam)}}{12}{subsection.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2}Aktuelle Richtlinien für medizinische Produkte mit KI \small {(Alex)}}{9}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.2}Aktuelle Richtlinien für medizinische Produkte mit KI \small {(Alex)}}{12}{subsection.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3}Evaluation der Zulassungskriterien für medizinische Produkte mit KI \small {(Evelyn)}}{9}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.3}Evaluation der Zulassungskriterien für medizinische Produkte mit KI \small {(Evelyn)}}{12}{subsection.4.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}Fazit \small {(Miriam)}}{10}{section.5}%
+\contentsline {section}{\numberline {5}Fazit \small {(Miriam)}}{13}{section.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1}Zusammenfassung der Ergebnisse}{10}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.1}Zusammenfassung der Ergebnisse}{13}{subsection.5.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2}Bewertung der Ergebnisse}{10}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.2}Bewertung der Ergebnisse}{13}{subsection.5.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3}Ausblick}{10}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.3}Ausblick}{13}{subsection.5.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Literatur}{12}{section*.2}%
+\contentsline {section}{Literatur}{15}{section*.2}%
