@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.4.28)  9 JUN 2020 22:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.4.28)  11 JUN 2020 20:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1592,15 +1592,14 @@ Package biblatex Info: Automatic encoding selection.
 \openout5 = `SATArbeit.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'SATArbeit.bbl' not found.
-
-No file SATArbeit.bbl.
+Package biblatex Info: ... file 'SATArbeit.bbl' found.
+ (./SATArbeit.bbl)
 Package biblatex Info: Reference section=0 on input line 10.
 Package biblatex Info: Reference segment=0 on input line 10.
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
 (lastpage)             ! on input line 10.
-(./partials/title.tex
+ (./partials/title.tex
 <images/INFLogo.png, id=115, 120.70094pt x 50.1875pt>
 File: images/INFLogo.png Graphic file (type png)
 <use images/INFLogo.png>
@@ -1720,15 +1719,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
  []
 
-)
-Overfull \hbox (6.14932pt too wide) in paragraph at lines 11--61
-\T1/jkpss/m/n/10.95 hun-der-ten be-reits Leo-nar-do da Vin-ci ge-spielt. Wahr-s
-chein-lich des-halb nann-
- []
-
-(./partials/ki-advantages.tex
+) (./partials/ki-advantages.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--2
 
+ []
+
+
+Overfull \hbox (0.659pt too wide) in paragraph at lines 3--5
+\T1/jkpss/m/n/10.95 ne Ver-dachts-dia-gno-se zu stel-len.[[][]11[][]] Sol-che K
+I - An-wen-dun-gen stel-len dem
+ []
+
+
+Overfull \hbox (3.85698pt too wide) in paragraph at lines 3--5
+\T1/jkpss/m/n/10.95 hil-fe wur-de von ei-nem deut-schen Star-tup Un-ter-neh-men
+ ent-wickelt und welt-
+ []
+
+
+Overfull \hbox (3.27664pt too wide) in paragraph at lines 3--5
+\T1/jkpss/m/n/10.95 was er auf-grund sei-ner Sym-pto-me als näch-stes un-ter-ne
+h-men soll.(Internet) 
  []
 
 
@@ -1737,23 +1748,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--5
  []
 
 [8]
-Overfull \hbox (3.25853pt too wide) in paragraph at lines 6--9
-\T1/jkpss/m/n/10.95 ben.[cha14]. Die-se In-for-ma-ti-on wer-den in den Te-le-mo
-ni-to-ring Zen-tren durch
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 6--9
 
  []
 
-) (./partials/ki-limitations.tex [9]
-Overfull \hbox (1.25146pt too wide) in paragraph at lines 3--4
-\T1/jkpss/m/n/10.95 satz trai-niert wur-den, nur be-grenzt auf an-de-re Da-ten-
-sät-ze an-wend-bar sind.
+) (./partials/ki-limitations.tex
+Overfull \hbox (2.5655pt too wide) in paragraph at lines 1--2
+\T1/jkpss/m/n/10.95 aus-wer-ten, um das Ein-schlei-chen von Ver-zer-run-gen zu 
+ver-hin-dern.[[][]15[][]] Zum
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
+
+ []
+
+[9]
 Overfull \hbox (2.69759pt too wide) in paragraph at lines 3--4
 \T1/jkpss/m/n/10.95 nings-da-ten ge-lernt, an-statt der all-ge-mei-nen Kon-zep-
 te, wel-che zur Pro-blem-
@@ -1765,18 +1775,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5--7
+Overfull \hbox (23.39307pt too wide) in paragraph at lines 5--8
+\T1/jkpss/m/n/10.95 che, das Black-Box-Problem vi-su-ell zu lö-sen, in-dem aus-
+ge-wähl-te KI-Algorithmen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--8
 
  []
 
 [10]
-Overfull \hbox (7.96266pt too wide) in paragraph at lines 8--11
-\T1/jkpss/m/n/10.95 schu-len ei-nes KI ge-stütz-ten Diagnose- und Emp-feh-lungs
--sy-stem könn-te theo-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--11
+Underfull \hbox (badness 10000) in paragraph at lines 9--12
 
  []
 
@@ -1786,21 +1796,62 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--2
  []
 
 )
+Overfull \hbox (6.79156pt too wide) in paragraph at lines 3--70
+\T1/jkpss/m/n/10.95 dem Trai-ning an meh-re-ren ver-schie-de-nen Da-ten-sät-zen
+ ge-te-stet wer-den.[[][]16[][]]
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 3--70
 
  []
 
 (./partials/guidlines.tex) (./partials/sufficient-criteria.tex) [12]
 (./partials/conclusion.tex) (./partials/summary.tex) (./partials/rating.tex)
-(./partials/perspective.tex) [13]
-No file SATArbeit.acr.
-[14]
+(./partials/perspective.tex) [13] (./SATArbeit.acr) [14]
+LaTeX Font Info:    Trying to load font information for T1+jkptt on input line 
+94.
 
-LaTeX Warning: Empty bibliography on input line 94.
+(c:/texlive/2020/texmf-dist/tex/latex/kpfonts/t1jkptt.fd
+File: t1jkptt.fd 2007/01/26 Fontinst v1.928 font definitions for T1/jkptt.
+)
+Overfull \hbox (8.28778pt too wide) in paragraph at lines 94--94
+\T1/jkpss/m/n/10.95 Pie-ces of Ar-ti-fi-ci-al In-tel-li-gence in Me-di-ci-ne, C
+ell-Pres, S. 555^^U564, 2019.
+ []
 
 [15]
-No file SATArbeit.gls.
-[16] 
+Overfull \hbox (2.91205pt too wide) in paragraph at lines 94--94
+[]\T1/jkpss/m/n/10.95 O. Ili-as-hen-ko1, Z. Bik-ku-lo-va1 und A. Dubgorn, Op-po
+r-tu-ni-ties and chal-
+ []
+
+
+Overfull \hbox (6.03796pt too wide) in paragraph at lines 94--94
+\T1/jkpss/m/n/10.95 len-ges of ar-ti-fi-ci-al in-tel-li-gence in he-al-th-care,
+ E3S Web of Con-fe-rences,
+ []
+
+
+Overfull \hbox (25.43576pt too wide) in paragraph at lines 94--94
+\T1/jkpss/m/n/10.95 S. 25^^U32, 2019. \T1/jkpss/m/sc/10.95 doi\T1/jkpss/m/n/10.
+95 : [][]$\T1/jkptt/m/n/10.95 h t t p s  : / / d o i  . o r g  / 10 . 1051 / e 
+3s c o n f  / 201911002028$[][]\T1/jkpss/m/n/10.95 . 
+ []
+
+
+Overfull \hbox (5.51437pt too wide) in paragraph at lines 94--94
+\T1/jkpss/m/n/10.95 the De-ve-lop-ment Pro-cess, Ame-ri-can Jour-nal of Oph-tha
+l-mo-lo-gy, 2020,
+ []
+
+
+Overfull \hbox (5.71451pt too wide) in paragraph at lines 94--94
+\T1/jkpss/m/n/10.95 fec-ti-ve go-ver-nance: A re-view, cri-ti-que and re-se-arc
+h agen-da, Su-staina-
+ []
+
+[16] (./SATArbeit.gls) [17] 
 AED: lastpage setting LastPage
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 99.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 99.
@@ -1809,40 +1860,30 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 99.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 99.
 Package rerunfilecheck Info: File `SATArbeit.out' has not changed.
 (rerunfilecheck)             Checksum: A7BC3704B36C40B367130A7502C2476D;2334.
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                SATArbeit
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'SATArbeit.run.xml'.
 \openout1 = `SATArbeit.run.xml'.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 99.
  ) 
 Here is how much of TeX's memory you used:
- 34286 strings out of 480607
- 632602 string characters out of 5907502
- 1403835 words of memory out of 5000000
- 49348 multiletter control sequences out of 15000+600000
- 585466 words of font info for 79 fonts, out of 8000000 for 9000
+ 34621 strings out of 480607
+ 640799 string characters out of 5907502
+ 1409411 words of memory out of 5000000
+ 49648 multiletter control sequences out of 15000+600000
+ 591286 words of font info for 85 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  63i,11n,69p,1655b,1757s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2020/texmf-dist/fonts/enc/dvips/kpfonts/kpfonts-expert.enc}{c:/te
-xlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2020/texmf-dist/f
+{c:/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/texlive/2020/texm
+f-dist/fonts/enc/dvips/kpfonts/kpfonts-expert.enc}<c:/texlive/2020/texmf-dist/f
 onts/type1/public/kpfonts/jkpssbn8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1
 /public/kpfonts/jkpssmn8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/kp
-fonts/jkpssmne.pfb>
-Output written on SATArbeit.pdf (17 pages, 68753 bytes).
+fonts/jkpssmne.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/kpfonts/jkpss
+msc8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/kpfonts/jkpttmn8a.pfb>
+
+Output written on SATArbeit.pdf (18 pages, 86516 bytes).
 PDF statistics:
- 255 PDF objects out of 1000 (max. 8388607)
- 228 compressed objects within 3 object streams
- 46 named destinations out of 1000 (max. 500000)
+ 368 PDF objects out of 1000 (max. 8388607)
+ 337 compressed objects within 4 object streams
+ 66 named destinations out of 1000 (max. 500000)
  234 words of extra memory for PDF output out of 10000 (max. 10000000)
 
