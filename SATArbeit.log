@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.4.28)  12 JUN 2020 11:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.4.28)  12 JUN 2020 11:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1710,15 +1710,33 @@ Overfull \hbox (7.47366pt too wide) in paragraph at lines 1--47
 en-dung der Ge-brauch-
  []
 
-
-Overfull \hbox (3.98903pt too wide) in paragraph at lines 1--47
-\T1/jkpss/m/n/10.95 Laut Her-stel-ler ist dies der Fall, mit Ver-wen-dung der C
-E--Kennzeichnung.[[][]14[][]] 
+[6] (./partials/europe-with-ai.tex)
+Overfull \hbox (31.69124pt too wide) in paragraph at lines 1--49
+\T1/jkpss/m/n/10.95 für me-di-zi-ni-sche Pro-duk-te mit KI wird sich eben-falls
+ stark an die US-amerikanische
  []
 
-[6] (./partials/europe-with-ai.tex) [7] (./partials/us.tex)
-(./partials/us-no-ai.tex) (./partials/us-with-ai.tex) [8]
-(./partials/special-criteria.tex) (./partials/ki-today.tex
+[7] (./partials/us.tex) (./partials/us-no-ai.tex
+
+LaTeX Warning: Citation 'YAEGER2019192' on page 8 undefined on input line 1.
+
+)
+Overfull \hbox (49.91267pt too wide) in paragraph at lines 1--53
+\T1/jkpss/m/n/10.95 ant-wor-tung der FDA (Food and Drug Ad-mi-ni-stra-ti-on), d
+er Lebensmittelüberwachungs-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--53
+\T1/jkpss/m/n/10.95 schen mit schwe-ren und sel-te-nen Krank-hei-ten zu hel-fen
+.
+ []
+
+[8] (./partials/us-with-ai.tex
+
+LaTeX Warning: Citation 'YAEGER2019192' on page 9 undefined on input line 1.
+
+) [9] [10] (./partials/special-criteria.tex) (./partials/ki-today.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--2
 
  []
@@ -1738,7 +1756,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
-[9]
+[11]
 Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
  []
@@ -1771,12 +1789,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--5
 
  []
 
-[10]
+[12]
 Underfull \hbox (badness 10000) in paragraph at lines 6--9
 
  []
 
-) [11] (./partials/ki-limitations.tex
+) [13] (./partials/ki-limitations.tex
 Underfull \hbox (badness 3668) in paragraph at lines 1--1
 [][]\T1/jkpss/m/sl/9 Schleim-haut-vor-wöl-bung in das Lu-men ei-nes Hohl-or-gan
 s un-ab-hän-gig von his-
@@ -1815,7 +1833,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--8
 
  []
 
-[12]
+[14]
 Underfull \hbox (badness 10000) in paragraph at lines 9--12
 
  []
@@ -1826,7 +1844,7 @@ Underfull \hbox (badness 7116) in paragraph at lines 13--13
 -phy-si-ker. \T1/jkpss/m/n/9 auf-ge-ru-fen am
  []
 
-) [13] [14] (./partials/discussion.tex) (./partials/solutions.tex
+) [15] [16] (./partials/discussion.tex) (./partials/solutions.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--2
 
  []
@@ -1842,10 +1860,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--5
 
  []
 
-) (./partials/guidlines.tex) (./partials/sufficient-criteria.tex)
-Overfull \hbox (24.30438pt too wide) in paragraph at lines 1--74
+) (./partials/guidlines.tex) [17] (./partials/sufficient-criteria.tex)
+Overfull \hbox (18.82939pt too wide) in paragraph at lines 1--74
 \T1/jkpss/m/n/10.95 for-de-run-gen auf. Die tech-ni-sche Ro-bust-heit und Si-ch
-er-heit ei-ner KI--Anwendung,
+er-heit ei-ner KI-Anwendung,
  []
 
 
@@ -1855,20 +1873,20 @@ ns-pa-renz, die Nicht-
  []
 
 
-Overfull \hbox (33.51016pt too wide) in paragraph at lines 1--74
-\T1/jkpss/m/n/10.95 den Her-stel-lern er-war-tet, die KI--Systeme zu über-wa-ch
-en und Risikomanagement--
+Overfull \hbox (26.92924pt too wide) in paragraph at lines 1--74
+\T1/jkpss/m/n/10.95 den Her-stel-lern er-war-tet, die KI-Systeme zu über-wa-che
+n und Risikomanagement-
  []
 
-[15] [16] [17] (./partials/conclusion.tex) (./partials/summary.tex)
-(./partials/rating.tex) (./partials/perspective.tex) [18] (./SATArbeit.acr)
-[19]
+[18] [19] (./partials/conclusion.tex) (./partials/summary.tex)
+(./partials/rating.tex) (./partials/perspective.tex) [20] (./SATArbeit.acr)
+[21]
 Overfull \hbox (8.28778pt too wide) in paragraph at lines 94--94
 \T1/jkpss/m/n/10.95 Pie-ces of Ar-ti-fi-ci-al In-tel-li-gence in Me-di-ci-ne, C
 ell-Pres, S. 555^^U564, 2019.
  []
 
-[20]
+[22]
 Overfull \hbox (2.91205pt too wide) in paragraph at lines 94--94
 []\T1/jkpss/m/n/10.95 O. Ili-as-hen-ko1, Z. Bik-ku-lo-va1 und A. Dubgorn, Op-po
 r-tu-ni-ties and chal-
@@ -1899,7 +1917,7 @@ Overfull \hbox (5.71451pt too wide) in paragraph at lines 94--94
 h agen-da, Su-staina-
  []
 
-[21] (./SATArbeit.gls) [22] 
+[23] (./SATArbeit.gls) [24] 
 AED: lastpage setting LastPage
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 99.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 99.
@@ -1908,19 +1926,28 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 99.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 99.
 Package rerunfilecheck Info: File `SATArbeit.out' has not changed.
 (rerunfilecheck)             Checksum: 2DD7C0D24A7F97C745A14EFAAF4E6406;2402.
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                SATArbeit
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'SATArbeit.run.xml'.
 \openout1 = `SATArbeit.run.xml'.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 99.
  ) 
 Here is how much of TeX's memory you used:
- 34693 strings out of 480607
- 641765 string characters out of 5907502
- 1415008 words of memory out of 5000000
- 49691 multiletter control sequences out of 15000+600000
+ 34708 strings out of 480607
+ 641983 string characters out of 5907502
+ 1415132 words of memory out of 5000000
+ 49704 multiletter control sequences out of 15000+600000
  619658 words of font info for 118 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 63i,11n,69p,1655b,1821s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 63i,11n,69p,3067b,1821s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{Hfootnote.14} has been referenced but does not ex
 ist, replaced by a fixed one
 
@@ -1970,10 +1997,10 @@ ublic/kpfonts/jkpssmn8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/kpfo
 nts/jkpssmn8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/kpfonts/jkpssm
 ne.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/kpfonts/jkpssmsc8a.pfb><c
 :/texlive/2020/texmf-dist/fonts/type1/public/kpfonts/jkpttmn8a.pfb>
-Output written on SATArbeit.pdf (23 pages, 113230 bytes).
+Output written on SATArbeit.pdf (25 pages, 118942 bytes).
 PDF statistics:
- 472 PDF objects out of 1000 (max. 8388607)
- 434 compressed objects within 5 object streams
- 84 named destinations out of 1000 (max. 500000)
+ 482 PDF objects out of 1000 (max. 8388607)
+ 442 compressed objects within 5 object streams
+ 86 named destinations out of 1000 (max. 500000)
  242 words of extra memory for PDF output out of 10000 (max. 10000000)
 
