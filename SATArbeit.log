@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.4.28)  27 JUN 2020 22:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.4.28)  28 JUN 2020 19:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1600,7 +1600,7 @@ Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
 (lastpage)             ! on input line 10.
  (./partials/title.tex
-<images/INFLogo.png, id=119, 120.70094pt x 50.1875pt>
+<images/INFLogo.png, id=115, 120.70094pt x 50.1875pt>
 File: images/INFLogo.png Graphic file (type png)
 <use images/INFLogo.png>
 Package pdftex.def Info: images/INFLogo.png  used on input line 4.
@@ -1742,23 +1742,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--3
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--6
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
 
-Overfull \hbox (6.6548pt too wide) in paragraph at lines 7--8
+Overfull \hbox (6.6548pt too wide) in paragraph at lines 6--7
 []\T1/jkpss/m/n/10.95 Medizinische KI An-wen-dun-gen adres-sie-ren nicht nur Är
 z-te, son-dern auch
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--10
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
  []
 
@@ -1774,29 +1774,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--2
  []
 
 
-Overfull \hbox (2.41162pt too wide) in paragraph at lines 3--5
-\T1/jkpss/m/n/10.95 zer sei-ne Be-schwer-den und Sym-pto-me in einen Text-dia-l
-og ein und be-kommt
- []
-
-
-Overfull \hbox (3.59486pt too wide) in paragraph at lines 3--5
-\T1/jkpss/m/n/10.95 Er-läu-te-run-gen und Ratschlä-ge, was er auf-grund sei-ner
- Sym-pto-me als näch-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 3--5
 
  []
 
 )
-Overfull \hbox (2.03218pt too wide) in paragraph at lines 6--63
-\T1/jkpss/m/n/10.95 von Al-ter oder Ge-brech-lich-keit zu Hau-se ge-pflegt wer-
-den müs-sen. Die häus-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 6--63
 
  []
@@ -1851,53 +1833,52 @@ n und Risikomanagement-
  []
 
 [16] [17] (./partials/conclusion.tex) (./partials/summary.tex)
-(./partials/rating.tex) (./partials/perspective.tex) [18] (./SATArbeit.acr)
-[19]
-Overfull \hbox (8.28778pt too wide) in paragraph at lines 94--94
+(./partials/perspective.tex) [18] (./SATArbeit.acr) [19]
+Overfull \hbox (8.28778pt too wide) in paragraph at lines 92--92
 \T1/jkpss/m/n/10.95 Pie-ces of Ar-ti-fi-ci-al In-tel-li-gence in Me-di-ci-ne, C
 ell-Pres, S. 555^^U564, 2019.
  []
 
 [20]
-Overfull \hbox (2.91205pt too wide) in paragraph at lines 94--94
+Overfull \hbox (2.91205pt too wide) in paragraph at lines 92--92
 []\T1/jkpss/m/n/10.95 O. Ili-as-hen-ko1, Z. Bik-ku-lo-va1 und A. Dubgorn, Op-po
 r-tu-ni-ties and chal-
  []
 
 
-Overfull \hbox (6.03796pt too wide) in paragraph at lines 94--94
+Overfull \hbox (6.03796pt too wide) in paragraph at lines 92--92
 \T1/jkpss/m/n/10.95 len-ges of ar-ti-fi-ci-al in-tel-li-gence in he-al-th-care,
  E3S Web of Con-fe-rences,
  []
 
 
-Overfull \hbox (25.43576pt too wide) in paragraph at lines 94--94
+Overfull \hbox (25.43576pt too wide) in paragraph at lines 92--92
 \T1/jkpss/m/n/10.95 S. 25^^U32, 2019. \T1/jkpss/m/sc/10.95 doi\T1/jkpss/m/n/10.
 95 : [][]$\T1/jkptt/m/n/10.95 h t t p s  : / / d o i  . o r g  / 10 . 1051 / e 
 3s c o n f  / 201911002028$[][]\T1/jkpss/m/n/10.95 . 
  []
 
 
-Overfull \hbox (5.51437pt too wide) in paragraph at lines 94--94
+Overfull \hbox (5.51437pt too wide) in paragraph at lines 92--92
 \T1/jkpss/m/n/10.95 the De-ve-lop-ment Pro-cess, Ame-ri-can Jour-nal of Oph-tha
 l-mo-lo-gy, 2020,
  []
 
 
-Overfull \hbox (5.71451pt too wide) in paragraph at lines 94--94
+Overfull \hbox (5.71451pt too wide) in paragraph at lines 92--92
 \T1/jkpss/m/n/10.95 fec-ti-ve go-ver-nance: A re-view, cri-ti-que and re-se-arc
 h agen-da, Su-staina-
  []
 
 [21] (./SATArbeit.gls) [22] 
 AED: lastpage setting LastPage
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 99.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 99.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 97.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 97.
 (./SATArbeit.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 99.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 99.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 97.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 97.
 Package rerunfilecheck Info: File `SATArbeit.out' has not changed.
-(rerunfilecheck)             Checksum: 2DD7C0D24A7F97C745A14EFAAF4E6406;2402.
+(rerunfilecheck)             Checksum: 3592B53380403A3E95F5D9C789A265AD;2342.
 
 
 LaTeX Warning: There were undefined references.
@@ -1910,13 +1891,13 @@ Package biblatex Warning: Please (re)run Biber on the file:
 Package logreq Info: Writing requests to 'SATArbeit.run.xml'.
 \openout1 = `SATArbeit.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 99.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 97.
  ) 
 Here is how much of TeX's memory you used:
- 34699 strings out of 480607
- 641847 string characters out of 5907502
- 1414980 words of memory out of 5000000
- 49700 multiletter control sequences out of 15000+600000
+ 34692 strings out of 480607
+ 641744 string characters out of 5907502
+ 1414939 words of memory out of 5000000
+ 49697 multiletter control sequences out of 15000+600000
  619658 words of font info for 118 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  63i,11n,69p,3067b,1821s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1960,10 +1941,10 @@ ublic/kpfonts/jkpssmn8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/kpfo
 nts/jkpssmn8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/kpfonts/jkpssm
 ne.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/kpfonts/jkpssmsc8a.pfb><c
 :/texlive/2020/texmf-dist/fonts/type1/public/kpfonts/jkpttmn8a.pfb>
-Output written on SATArbeit.pdf (23 pages, 112516 bytes).
+Output written on SATArbeit.pdf (23 pages, 114165 bytes).
 PDF statistics:
- 448 PDF objects out of 1000 (max. 8388607)
- 410 compressed objects within 5 object streams
- 81 named destinations out of 1000 (max. 500000)
- 242 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 444 PDF objects out of 1000 (max. 8388607)
+ 406 compressed objects within 5 object streams
+ 80 named destinations out of 1000 (max. 500000)
+ 234 words of extra memory for PDF output out of 10000 (max. 10000000)
 
