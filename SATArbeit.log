@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.4.28)  28 JUN 2020 19:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.4.28)  2 JUL 2020 15:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1764,7 +1764,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
 [11]) (./partials/ki-advantages.tex
 Overfull \hbox (6.68971pt too wide) in paragraph at lines 1--2
-\T1/jkpss/m/n/10.95 Sen-so-ren auf Fit-nes-strackern. [[][]10[][]]. Die-se Ge-r
+\T1/jkpss/m/n/10.95 Sen-so-ren auf Fit-nes-strackern. [[][]11[][]]. Die-se Ge-r
 ä-te wer-den mei-stens am Hand-
  []
 
@@ -1777,6 +1777,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--2
 Underfull \hbox (badness 10000) in paragraph at lines 3--5
 
  []
+
+
+LaTeX Warning: Citation 'Pshyrembel' on page 12 undefined on input line 6.
 
 )
 Underfull \hbox (badness 10000) in paragraph at lines 6--63
@@ -1894,18 +1897,15 @@ Package logreq Info: Writing requests to 'SATArbeit.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 97.
  ) 
 Here is how much of TeX's memory you used:
- 34692 strings out of 480607
- 641744 string characters out of 5907502
- 1414939 words of memory out of 5000000
- 49697 multiletter control sequences out of 15000+600000
+ 34694 strings out of 480607
+ 641837 string characters out of 5907502
+ 1414970 words of memory out of 5000000
+ 49699 multiletter control sequences out of 15000+600000
  619658 words of font info for 118 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  63i,11n,69p,3067b,1821s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Hfootnote.11} has been referenced but does not ex
+pdfTeX warning (dest): name{Hfootnote.10} has been referenced but does not ex
 ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.10} has been referenced but does not exis
-t, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.9} has been referenced but does not exist
 , replaced by a fixed one
@@ -1941,10 +1941,10 @@ ublic/kpfonts/jkpssmn8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/kpfo
 nts/jkpssmn8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/kpfonts/jkpssm
 ne.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/kpfonts/jkpssmsc8a.pfb><c
 :/texlive/2020/texmf-dist/fonts/type1/public/kpfonts/jkpttmn8a.pfb>
-Output written on SATArbeit.pdf (23 pages, 114165 bytes).
+Output written on SATArbeit.pdf (23 pages, 113373 bytes).
 PDF statistics:
- 444 PDF objects out of 1000 (max. 8388607)
- 406 compressed objects within 5 object streams
+ 441 PDF objects out of 1000 (max. 8388607)
+ 403 compressed objects within 5 object streams
  80 named destinations out of 1000 (max. 500000)
  234 words of extra memory for PDF output out of 10000 (max. 10000000)
 
