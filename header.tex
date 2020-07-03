@@ -72,10 +72,14 @@ sorting=ynt
 \DeclareFieldFormat{journaltitle}{#1\isdot}
 \DeclareFieldFormat[article]{citetitle}{#1}
 \DeclareFieldFormat[article]{title}{#1}
+\DeclareFieldFormat[article]{url}{\url{\thefield{url}}}
 \DeclareFieldFormat[report]{citetitle}{#1}
 \DeclareFieldFormat[report]{title}{#1}
+\DeclareFieldFormat[report]{url}{\url{\thefield{url}}}
 \DeclareFieldFormat[inproceedings]{citetitle}{#1}
 \DeclareFieldFormat[inproceedings]{title}{#1}
+\DeclareFieldFormat[inproceedings]{url}{\url{\thefield{url}}}
+\DeclareFieldFormat[misc]{url}{\url{\thefield{url}}}
 \addbibresource{references.bib}
 \usepackage{color}
 \definecolor{dkgreen}{rgb}{0,0.6,0}
