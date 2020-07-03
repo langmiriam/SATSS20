@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.24)  3 JUL 2020 17:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.24)  3 JUL 2020 17:49
 entering extended mode
 **./SATArbeit.tex
 (SATArbeit.tex
@@ -1585,7 +1585,7 @@ Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             ! on input line 10.
 
 (partials/title.tex
-<images/INFLogo.png, id=114, 120.70094pt x 50.1875pt>
+<images/INFLogo.png, id=110, 120.70094pt x 50.1875pt>
 File: images/INFLogo.png Graphic file (type png)
 <use images/INFLogo.png>
 Package pdftex.def Info: images/INFLogo.png  used on input line 4.
@@ -1676,7 +1676,7 @@ Overfull \hbox (1.33856pt too wide) in paragraph at lines 41--41
  []
 
 (partials/admission.tex) (partials/medproducts.tex) (partials/europe-no-ai.tex
-<images/Risikoklassen.jpg, id=179, 694.595pt x 250.9375pt>
+<images/Risikoklassen.jpg, id=174, 694.595pt x 250.9375pt>
 File: images/Risikoklassen.jpg Graphic file (type jpg)
 <use images/Risikoklassen.jpg>
 Package pdftex.def Info: images/Risikoklassen.jpg  used on input line 3.
@@ -1688,7 +1688,7 @@ Overfull \hbox (1.7073pt too wide) in paragraph at lines 9--17
  []
 
 [6 <./images/Risikoklassen.jpg>]
-<images/Zertifizierungsablauf.jpg, id=193, 2053.6725pt x 1286.8075pt>
+<images/Zertifizierungsablauf.jpg, id=188, 2053.6725pt x 1286.8075pt>
 File: images/Zertifizierungsablauf.jpg Graphic file (type jpg)
 <use images/Zertifizierungsablauf.jpg>
 Package pdftex.def Info: images/Zertifizierungsablauf.jpg  used on input line 2
@@ -1719,7 +1719,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--49
 
 [8] (partials/medproductsAI.tex) (partials/europe-with-ai.tex)
 Overfull \hbox (2.26208pt too wide) in paragraph at lines 1--53
-\T1/jkpss/m/n/10.95 zu-pas-sen und zu op-ti-mie-ren[[][]20[][]]. Da-durch kann 
+\T1/jkpss/m/n/10.95 zu-pas-sen und zu op-ti-mie-ren[[][]21[][]]. Da-durch kann 
 die Ge-sund-heits-ver-sor-gung
  []
 
@@ -1728,8 +1728,59 @@ die Ge-sund-heits-ver-sor-gung
 LaTeX Warning: Citation 'YAEGER2019192' on page 10 undefined on input line 1.
 
 ) [10] (partials/special-criteria.tex) (partials/ki-today.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--3
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Overfull \hbox (6.6548pt too wide) in paragraph at lines 6--7
+[]\T1/jkpss/m/n/10.95 Medizinische KI An-wen-dun-gen adres-sie-ren nicht nur Är
+z-te, son-dern auch
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+
+ []
+
+[11]) (partials/ki-advantages.tex
+Overfull \hbox (6.68971pt too wide) in paragraph at lines 1--2
+\T1/jkpss/m/n/10.95 Sen-so-ren auf Fit-nes-strackern. [[][]16[][]]. Die-se Ge-r
+ä-te wer-den mei-stens am Hand-
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 1--2
 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
+
+ []
+
+
+LaTeX Warning: Citation 'Pshyrembel' on page 12 undefined on input line 6.
+
+) [12] (partials/ki-limitations.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
+
+ []
+
+
+Overfull \hbox (4.10103pt too wide) in paragraph at lines 3--4
+\T1/jkpss/m/n/10.95 wen-dung der KI in der Me-di-zin ein-gren-zen. Von ei-ner Ü
+ber-an-pas-sung spricht
  []
 
 
@@ -1737,174 +1788,75 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
-
+[13]
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
-
- []
-
-[11]
-Underfull \hbox (badness 10000) in paragraph at lines 9--10
+)
+Underfull \hbox (badness 10000) in paragraph at lines 7--67
 
  []
 
-) (partials/ki-advantages.tex
-Underfull \hbox (badness 10000) in paragraph at lines 1--2
+[14] (partials/discussion.tex) (partials/solutions.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--4
 
  []
 
-
-Overfull \hbox (0.659pt too wide) in paragraph at lines 3--5
-\T1/jkpss/m/n/10.95 ne Ver-dachts-dia-gno-se zu stel-len.[[][]15[][]] Sol-che K
-I - An-wen-dun-gen stel-len dem
- []
-
-
-Overfull \hbox (3.85698pt too wide) in paragraph at lines 3--5
-\T1/jkpss/m/n/10.95 hil-fe wur-de von ei-nem deut-schen Star-tup Un-ter-neh-men
- ent-wickelt und welt-
- []
-
-
-Overfull \hbox (3.27664pt too wide) in paragraph at lines 3--5
-\T1/jkpss/m/n/10.95 was er auf-grund sei-ner Sym-pto-me als näch-stes un-ter-ne
-h-men soll.(Internet) 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--5
-
- []
-
-[12]
-Underfull \hbox (badness 10000) in paragraph at lines 6--9
-
- []
-
-) [13] (partials/ki-limitations.tex
-Underfull \hbox (badness 3668) in paragraph at lines 1--1
-[][]\T1/jkpss/m/sl/9 Schleim-haut-vor-wöl-bung in das Lu-men ei-nes Hohl-or-gan
-s un-ab-hän-gig von his-
- []
-
-
-Overfull \hbox (2.5655pt too wide) in paragraph at lines 1--2
-\T1/jkpss/m/n/10.95 aus-wer-ten, um das Ein-schlei-chen von Ver-zer-run-gen zu 
-ver-hin-dern.[[][]18[][]] Zum
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--2
-
- []
-
-
-Overfull \hbox (2.69759pt too wide) in paragraph at lines 3--4
-\T1/jkpss/m/n/10.95 nings-da-ten ge-lernt, an-statt der all-ge-mei-nen Kon-zep-
-te, wel-che zur Pro-blem-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
-
-Overfull \hbox (23.39307pt too wide) in paragraph at lines 5--8
-\T1/jkpss/m/n/10.95 che, das Black-Box-Problem vi-su-ell zu lö-sen, in-dem aus-
-ge-wähl-te KI-Algorithmen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--8
-
- []
-
-[14]
-Underfull \hbox (badness 10000) in paragraph at lines 9--12
-
- []
-
-
-Underfull \hbox (badness 7116) in paragraph at lines 13--13
-[][]\T1/jkpss/m/sl/9 War ein bri-ti-scher theo-re-ti-scher Phy-si-ker und Astro
--phy-si-ker. \T1/jkpss/m/n/9 auf-ge-ru-fen am
- []
-
-) [15] [16] (partials/discussion.tex) (partials/solutions.tex
-Underfull \hbox (badness 10000) in paragraph at lines 1--2
-
- []
-
-
-Overfull \hbox (6.79156pt too wide) in paragraph at lines 3--5
-\T1/jkpss/m/n/10.95 dem Trai-ning an meh-re-ren ver-schie-de-nen Da-ten-sät-zen
- ge-te-stet wer-den.[[][]21[][]]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--5
-
- []
-
-) (partials/guidlines.tex) [17] (partials/sufficient-criteria.tex) [18]
-(partials/conclusion.tex) (partials/summary.tex) (partials/rating.tex)
-(partials/perspective.tex) [19] (SATArbeit.acr) [20]
-Overfull \hbox (3.20189pt too wide) in paragraph at lines 96--96
+) (partials/guidlines.tex) [15] (partials/sufficient-criteria.tex) [16]
+(partials/conclusion.tex) (partials/summary.tex) (partials/perspective.tex)
+[17] (SATArbeit.acr) [18]
+Overfull \hbox (3.20189pt too wide) in paragraph at lines 94--94
 []\T1/jkpss/m/n/10.95 , Medizingeräte-Software - Software-Lebenszyklus-Prozes
 se (IEC
  []
 
-[21]
-Overfull \hbox (8.28778pt too wide) in paragraph at lines 96--96
+[19]
+Overfull \hbox (8.28778pt too wide) in paragraph at lines 94--94
 \T1/jkpss/m/n/10.95 Pie-ces of Ar-ti-fi-ci-al In-tel-li-gence in Me-di-ci-ne, C
 ell-Pres, S. 555564, 2019.
  []
 
 
-Overfull \hbox (2.91205pt too wide) in paragraph at lines 96--96
+Overfull \hbox (2.91205pt too wide) in paragraph at lines 94--94
 []\T1/jkpss/m/n/10.95 O. Ili-as-hen-ko1, Z. Bik-ku-lo-va1 und A. Dubgorn, Op-po
 r-tu-ni-ties and chal-
  []
 
 
-Overfull \hbox (6.03796pt too wide) in paragraph at lines 96--96
+Overfull \hbox (6.03796pt too wide) in paragraph at lines 94--94
 \T1/jkpss/m/n/10.95 len-ges of ar-ti-fi-ci-al in-tel-li-gence in he-al-th-care,
  E3S Web of Con-fe-rences,
  []
 
 
-Overfull \hbox (25.43576pt too wide) in paragraph at lines 96--96
+Overfull \hbox (25.43576pt too wide) in paragraph at lines 94--94
 \T1/jkpss/m/n/10.95 S. 2532, 2019. \T1/jkpss/m/sc/10.95 doi\T1/jkpss/m/n/10.95
  : [][]$\T1/jkptt/m/n/10.95 h t t p s  : / / d o i  . o r g  / 10 . 1051 / e 3s
  c o n f  / 201911002028$[][]\T1/jkpss/m/n/10.95 . 
  []
 
 
-Overfull \hbox (5.51437pt too wide) in paragraph at lines 96--96
+Overfull \hbox (5.51437pt too wide) in paragraph at lines 94--94
 \T1/jkpss/m/n/10.95 the De-ve-lop-ment Pro-cess, Ame-ri-can Jour-nal of Oph-tha
 l-mo-lo-gy, 2020,
  []
 
 
-Overfull \hbox (5.71451pt too wide) in paragraph at lines 96--96
+Overfull \hbox (5.71451pt too wide) in paragraph at lines 94--94
 \T1/jkpss/m/n/10.95 fec-ti-ve go-ver-nance: A re-view, cri-ti-que and re-se-arc
 h agen-da, Su-staina-
  []
 
-[22] [23] (SATArbeit.gls) [24] 
+[20] [21] (SATArbeit.gls) [22] 
 AED: lastpage setting LastPage
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 101.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 101.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 99.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 99.
 (SATArbeit.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 101.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 101.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 99.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 99.
 Package rerunfilecheck Info: File `SATArbeit.out' has not changed.
-(rerunfilecheck)             Checksum: 595E624DCBA276629FBCCB991F939BF3;2289.
+(rerunfilecheck)             Checksum: EA3B933BC8370756F0791E43C2246631;2229.
 
 
 LaTeX Warning: There were undefined references.
@@ -1917,30 +1869,18 @@ Package biblatex Warning: Please (re)run Biber on the file:
 Package logreq Info: Writing requests to 'SATArbeit.run.xml'.
 \openout1 = `SATArbeit.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 101.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 99.
  ) 
 Here is how much of TeX's memory you used:
- 34831 strings out of 480765
- 642514 string characters out of 2908083
- 1419036 words of memory out of 3000000
- 49946 multiletter control sequences out of 15000+200000
+ 34817 strings out of 480765
+ 642334 string characters out of 2908083
+ 1415847 words of memory out of 3000000
+ 49941 multiletter control sequences out of 15000+200000
  619658 words of font info for 118 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
  63i,11n,69p,3070b,1996s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{Hfootnote.8} has been referenced but does not exi
+pdfTeX warning (dest): name{Hfootnote.4} has been referenced but does not exi
 st, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.7} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.6} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.5} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.4} has been referenced but does not exist
-, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist
 , replaced by a fixed one
@@ -1958,9 +1898,9 @@ ts/jkpssbn8a.pfb><D:/Programme/miktex/fonts/type1/public/kpfonts/jkpssmn8a.pfb>
 tex/fonts/type1/public/kpfonts/jkpssmne.pfb><D:/Programme/miktex/fonts/type1/pu
 blic/kpfonts/jkpssmsc8a.pfb><D:/Programme/miktex/fonts/type1/public/kpfonts/jkp
 ttmn8a.pfb>
-Output written on SATArbeit.pdf (25 pages, 2404329 bytes).
+Output written on SATArbeit.pdf (23 pages, 2392956 bytes).
 PDF statistics:
- 473 PDF objects out of 1000 (max. 8388607)
- 88 named destinations out of 1000 (max. 500000)
- 244 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 432 PDF objects out of 1000 (max. 8388607)
+ 82 named destinations out of 1000 (max. 500000)
+ 236 words of extra memory for PDF output out of 10000 (max. 10000000)
 
