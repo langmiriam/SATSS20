@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.4.28)  5 JUL 2020 15:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.4.28)  5 JUL 2020 15:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1736,15 +1736,9 @@ LaTeX Warning: Reference `sec:us' on page 15 undefined on input line 1.
 
 ) [15] (./partials/sufficient-criteria.tex) [16] (./partials/conclusion.tex)
 (./partials/summary.tex
-Overfull \hbox (14.26012pt too wide) in paragraph at lines 1--9
-\T1/jkpss/m/n/10.95 der Pro-duk-te, feh-len-de Trans-pa-renz oder Über-an-pas-s
-ung von KI-Algorithmen,
- []
-
-
-Overfull \hbox (6.61636pt too wide) in paragraph at lines 1--9
-\T1/jkpss/m/n/10.95 un-de-fi-nier-ten Ver-ant-wort-lich-kei-ten und dem Feh-len
- von ethi-schen und recht-
+Overfull \hbox (1.75523pt too wide) in paragraph at lines 1--8
+\T1/jkpss/m/n/10.95 men, un-de-fi-nier-ten Ver-ant-wort-lich-kei-ten und dem Fe
+h-len von ethi-schen und
  []
 
 ) (./partials/perspective.tex) [17] (./SATArbeit.acr) [18]
@@ -1809,10 +1803,10 @@ Package logreq Info: Writing requests to 'SATArbeit.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 94.
  ) 
 Here is how much of TeX's memory you used:
- 34681 strings out of 480607
- 642229 string characters out of 5907502
+ 34678 strings out of 480607
+ 642188 string characters out of 5907502
  1412299 words of memory out of 5000000
- 49690 multiletter control sequences out of 15000+600000
+ 49687 multiletter control sequences out of 15000+600000
  618926 words of font info for 116 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  63i,11n,69p,3220b,1996s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1844,7 +1838,7 @@ ublic/kpfonts/jkpssmn8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/kpfo
 nts/jkpssmn8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/kpfonts/jkpssm
 ne.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/kpfonts/jkpssmsc8a.pfb><c
 :/texlive/2020/texmf-dist/fonts/type1/public/kpfonts/jkpttmn8a.pfb>
-Output written on SATArbeit.pdf (23 pages, 2345568 bytes).
+Output written on SATArbeit.pdf (23 pages, 2345504 bytes).
 PDF statistics:
  454 PDF objects out of 1000 (max. 8388607)
  414 compressed objects within 5 object streams
