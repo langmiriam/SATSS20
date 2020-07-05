@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.24)  5 JUL 2020 17:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.24)  5 JUL 2020 17:28
 entering extended mode
 **./SATArbeit.tex
 (SATArbeit.tex
@@ -1681,82 +1681,30 @@ Overfull \hbox (1.95105pt too wide) in paragraph at lines 1--4
  []
 
 ) [9] [10] (partials/special-criteria.tex) (partials/ki-today.tex
-Underfull \hbox (badness 10000) in paragraph at lines 1--3
+Underfull \hbox (badness 10000) in paragraph at lines 1--6
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
-
+[11]) (partials/ki-advantages.tex)
+Overfull \hbox (4.00317pt too wide) in paragraph at lines 1--60
+\T1/jkpss/m/n/10.95 Sen-so-ren auf Fit-nes-strackern [[][]16[][]]. Die-se Ge-rä
+-te wer-den mei-stens am Hand-
  []
 
 
-Overfull \hbox (6.6548pt too wide) in paragraph at lines 6--7
-[]\T1/jkpss/m/n/10.95 Medizinische KI An-wen-dun-gen adres-sie-ren nicht nur Är
-z-te, son-dern auch
+Overfull \hbox (2.65315pt too wide) in paragraph at lines 1--60
+\T1/jkpss/m/n/10.95 Spra-cher-ken-nung oder Tex-ter-ken-nung, um ihm ei-ne münd
+-li-che oder schrift-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6--7
-
+Overfull \hbox (2.03218pt too wide) in paragraph at lines 1--60
+\T1/jkpss/m/n/10.95 von Al-ter oder Ge-brech-lich-keit zu Hau-se ge-pflegt wer-
+den müs-sen. Die häus-
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
-
- []
-
-[11]) (partials/ki-advantages.tex
-Overfull \hbox (6.68971pt too wide) in paragraph at lines 1--2
-\T1/jkpss/m/n/10.95 Sen-so-ren auf Fit-nes-strackern. [[][]16[][]]. Die-se Ge-r
-ä-te wer-den mei-stens am Hand-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--2
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--5
-
- []
-
-
-LaTeX Warning: Citation 'Pshyrembel' on page 12 undefined on input line 6.
-
-) [12] (partials/ki-limitations.tex
-Underfull \hbox (badness 10000) in paragraph at lines 1--2
-
- []
-
-
-Overfull \hbox (4.10103pt too wide) in paragraph at lines 3--4
-\T1/jkpss/m/n/10.95 wen-dung der KI in der Me-di-zin ein-gren-zen. Von ei-ner Ü
-ber-an-pas-sung spricht
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
-[13]
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-
- []
-
-)
-Underfull \hbox (badness 10000) in paragraph at lines 7--62
-
- []
-
-[14] (partials/discussion.tex) (partials/solutions.tex
-Underfull \hbox (badness 10000) in paragraph at lines 1--4
-
- []
-
-) (partials/guidlines.tex
+[12] (partials/ki-limitations.tex) [13] [14] (partials/discussion.tex)
+(partials/solutions.tex) (partials/guidlines.tex
 
 LaTeX Warning: Reference `sec:europe' on page 15 undefined on input line 1.
 
@@ -1764,7 +1712,13 @@ LaTeX Warning: Reference `sec:europe' on page 15 undefined on input line 1.
 LaTeX Warning: Reference `sec:us' on page 15 undefined on input line 1.
 
 ) [15] (partials/sufficient-criteria.tex) [16] (partials/conclusion.tex)
-(partials/summary.tex) (partials/perspective.tex) [17]
+(partials/summary.tex
+Overfull \hbox (1.75523pt too wide) in paragraph at lines 1--8
+\T1/jkpss/m/n/10.95 men, un-de-fi-nier-ten Ver-ant-wort-lich-kei-ten und dem Fe
+h-len von ethi-schen und
+ []
+
+) (partials/perspective.tex) [17]
 Overfull \hbox (3.20189pt too wide) in paragraph at lines 86--86
 []\T1/jkpss/m/n/10.95 , Medizingeräte-Software - Software-Lebenszyklus-Prozes
 se (IEC
@@ -1826,11 +1780,6 @@ Package rerunfilecheck Info: File `SATArbeit.out' has not changed.
 
 LaTeX Warning: There were undefined references.
 
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                SATArbeit
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'SATArbeit.run.xml'.
 \openout1 = `SATArbeit.run.xml'.
 
@@ -1839,7 +1788,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 90.
 Here is how much of TeX's memory you used:
  34750 strings out of 480765
  641192 string characters out of 2908083
- 1416738 words of memory out of 3000000
+ 1416740 words of memory out of 3000000
  49893 multiletter control sequences out of 15000+200000
  618926 words of font info for 116 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
@@ -1872,9 +1821,9 @@ ts/jkpssbn8a.pfb><D:/Programme/miktex/fonts/type1/public/kpfonts/jkpssmn8a.pfb>
 tex/fonts/type1/public/kpfonts/jkpssmne.pfb><D:/Programme/miktex/fonts/type1/pu
 blic/kpfonts/jkpssmsc8a.pfb><D:/Programme/miktex/fonts/type1/public/kpfonts/jkp
 ttmn8a.pfb>
-Output written on SATArbeit.pdf (21 pages, 1426548 bytes).
+Output written on SATArbeit.pdf (21 pages, 1426779 bytes).
 PDF statistics:
- 436 PDF objects out of 1000 (max. 8388607)
+ 438 PDF objects out of 1000 (max. 8388607)
  81 named destinations out of 1000 (max. 500000)
  215 words of extra memory for PDF output out of 10000 (max. 10000000)
 
