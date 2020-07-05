@@ -11,90 +11,80 @@
     \pagestyle{empty}
     \input{partials/title}
     \newpage
+    \setstretch{1.0}
+    \input{partials/abstract2.tex}
+        
+    \newpage
     \hypertarget{contents}{}
     \tableofcontents
 
     \newpage
     \pagestyle{fancy}
     \setstretch{1.0}
-    \section{Einführung \small{Alex}}\label{sec:introduction}
+    \section{Einführung \small{(Alex)}}\label{sec:introduction}
         \input{partials/intro}
 		\subsection{Motivation, Kontext und Gegenstand}\label{sec:motivationcontext}
 			\input{partials/motivationcontext}
-			\subsubsection{Motivation}\label{sec:motivation}
-				\input{partials/motivation}
-			\subsubsection{Kontext und Gegenstand}\label{sec:context}
-				\input{partials/context}
 		\subsection{Ziele}\label{sec:goals}
 			\input{partials/goals}
-			\subsubsection{Zentrale Fragestellung}\label{sec:questions}
-				\input{partials/questions}
-			\subsubsection{Hypothesen, Unterforschungsfragen \small{?}}\label{sec:hypotheses}
-				\input{partials/hypotheses}
-
-		\subsection{Vorgehensweise und Gliederung}\label{sec:procedure}
+		\subsection{Vorgehensweise}\label{sec:procedure}
 			\input{partials/procedure}
-			\subsubsection{Methodik}\label{sec:method}
-				\input{partials/method}
-			\subsubsection{Gliederung}\label{sec:structure}
-				\input{partials/structure}
+		\subsection{Aufbau der Arbeit}\label{sec:structure}
+			\input{partials/structure}
 
 	\newpage
-	\section{Darstellung des bisherigen Zulassungsverfahrens}\label{sec:admission}
+	\section{Bisherige Zulassungsverfahren von medizinischen Produkten}\label{sec:admission}
 		\input{partials/admission}
-		\subsection{Zulassungsverfahren in der Europäischen Union \small{Evelyn}}\label{sec:europe}
-			\input{partials/europe}
-			\subsubsection{Für medizinische Geräte ohne Künstliche Intelligenz}\label{sec:europe-no-ai}
+		\subsection{Zulassungsverfahren medizinischer Geräte \small{(Evelyn)}}\label{sec:medproducts}
+			\input{partials/medproducts}		
+			\subsubsection{Zulassung von medizinischen Geräten in Europa \small{(Evelyn)}}\label{sec:europe-no-ai}
 				\input{partials/europe-no-ai}
-			\subsubsection{Besonderheiten bei Software \small{?}}\label{sec:europe-software}
-				\input{partials/europe-software}
-			\subsubsection{Für medizinische Geräte mit Künstlicher Intelligenz}\label{sec:europe-with-ai}
+			\subsubsection{Zulassung von medizinischen Geräten in den USA \small{(Alex)}}\label{sec:us-no-ai}
+				\input{partials/us-no-ai}	
+		\subsection{Zulassungsverfahren medizinischer Geräte mit KI \small{(Alex)}}\label{sec:medproductsAI}
+			\input{partials/medproductsAI}			
+			\subsubsection{Zulassung von medizinischen Geräten mit KI in Europa \small{(Evelyn)}}\label{sec:europe-with-ai}
 				\input{partials/europe-with-ai}
-		\subsection{Zulassungsverfahren in den US \small{Alex}}\label{sec:us}
-			\input{partials/us}
-			\subsubsection{Für medizinische Geräte ohne Künstliche Intelligenz}\label{sec:us-no-ai}
-				\input{partials/us-no-ai}
-			\subsubsection{Besonderheiten bei Software \small{?}}\label{sec:us-software}
-				\input{partials/us-software}
-			\subsubsection{Für medizinische Geräte mit Künstlicher Intelligenz}\label{sec:us-with-ai}
+			\subsubsection{Zulassung von medizinischen Geräten mit KI in den USA \small{(Alex)}}\label{sec:us-with-ai}
 				\input{partials/us-with-ai}
+				
+				
 
 	\newpage
-	\section{Analyse und Bewertung}\label{sec:analysis}
-		\input{partials/analysis}
-		\subsection{Analyse}
-			\subsubsection{Besondere Kriterien für die Zulassung von medizinischen Produkten mit KI \small{Evelyn}}\label{sec:special-criteria}
+	\section{Einsatz von KI in der Medizin}\label{sec:analysis}
 				\input{partials/special-criteria}
-			\subsubsection{Medizin Produkte mit KI in der heutigen Medizin \small{Miriam}}\label{sec:ki-today}
+			\subsection{Verwendung medizinischer Produkte mit KI in der heutigen Medizin \small{(Miriam)}}\label{sec:ki-today}
 				\input{partials/ki-today}
-			\subsubsection{Welche Vorteile bringt die KI dem Patienten gegenüber? \small{Miriam}}\label{sec:ki-advantages}
+			\subsection{Vorteile von KI für den Patienten \small{(Miriam)}}\label{sec:ki-advantages}
 				\input{partials/ki-advantages}
-			\subsubsection{Wo liegen die Grenzen von KI in der Medizin? \small{Miriam}}\label{sec:ki-limitations}
+			\subsection{Grenzen von KI in der Medizin  \small{(Miriam)}}\label{sec:ki-limitations}
 				\input{partials/ki-limitations}
+	\newpage
+	\section{Diskussion}\label{sec:discussion}
+		\input{partials/discussion}
+		\subsection{Lösungsansätze zur Zulassung von KI  \small{(Miriam)}} \label{sec:solutions}
+			\input{partials/solutions}
+		\subsection{Aktuelle Richtlinien für medizinische Produkte mit KI \small{(Alex)}}\label{sec:guidlines}
+			\input{partials/guidlines}
+		\subsection{Evaluation der Zulassungskriterien für medizinische Produkte mit KI \small{(Evelyn)}}\label{sec:sufficient-criteria}
+			\input{partials/sufficient-criteria}
+		
 	
 	\newpage
-	\section{Fazit \small{Miriam}}\label{sec:conclusion}
+	\section{Fazit \small{(Miriam)}}\label{sec:conclusion}
 		\input{partials/conclusion}
-		\subsection{Zusammenfassung der Ergebnisse}\label{sec:summary}
+		\subsection{Zusammenfassung und Bewertung der Ergebnisse}\label{sec:summary}
 			\input{partials/summary}
-		\subsection{Bewertung der Ergebnisse}\label{sec:rating}
-			\input{partials/rating}
-		\subsection{Lösungsansätze zur Zulassung von KI}\label{sec:solutions}
-			\input{partials/solutions}
-		\subsection{Mögliche Alternativen für die optimale Verwendung der KI}\label{sec:alternatives}
-			\input{partials/alternatives}
+		\subsection{Ausblick}\label{sec:perspective}
+			\input{partials/perspective}
 	  
-
-    \newpage
-    \printglossary[type=\acronymtype,title={Akronyme}]
    
     \newpage
-    \section*{Literatur}
-    \addcontentsline{toc}{section}{Literatur}
+%    \section*{Literatur}
+%    \addcontentsline{toc}{section}{Literatur}
     \nocite{*}
-    \printbibliography{}
+    \printbibliography[heading=bibintoc,type=article, title={Literatur}]
 	
-    \newpage
-    \printglossary[type=main,title={Glossar}]
+   
 
 \end{document}
