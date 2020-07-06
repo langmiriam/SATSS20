@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.4.28)  6 JUL 2020 17:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.4.28)  6 JUL 2020 20:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1766,10 +1766,10 @@ Overfull \hbox (6.03796pt too wide) in paragraph at lines 86--86
  []
 
 
-Overfull \hbox (25.43576pt too wide) in paragraph at lines 86--86
+Overfull \hbox (5.84258pt too wide) in paragraph at lines 86--86
 \T1/jkpss/m/n/10.95 S. 25^^U32, 2019. \T1/jkpss/m/sc/10.95 doi\T1/jkpss/m/n/10.
 95 : [][]$\T1/jkptt/m/n/10.95 h t t p s  : / / d o i  . o r g  / 10 . 1051 / e 
-3s c o n f  / 201911002028$[][]\T1/jkpss/m/n/10.95 . 
+3s c o n f  / 20191100 -[]
  []
 
 
@@ -1837,10 +1837,10 @@ ublic/kpfonts/jkpssmn8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/kpfo
 nts/jkpssmn8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/kpfonts/jkpssm
 ne.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/kpfonts/jkpssmsc8a.pfb><c
 :/texlive/2020/texmf-dist/fonts/type1/public/kpfonts/jkpttmn8a.pfb>
-Output written on SATArbeit.pdf (21 pages, 1533437 bytes).
+Output written on SATArbeit.pdf (21 pages, 1533505 bytes).
 PDF statistics:
- 439 PDF objects out of 1000 (max. 8388607)
- 401 compressed objects within 5 object streams
+ 440 PDF objects out of 1000 (max. 8388607)
+ 402 compressed objects within 5 object streams
  80 named destinations out of 1000 (max. 500000)
  220 words of extra memory for PDF output out of 10000 (max. 10000000)
 
